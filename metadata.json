@@ -1,0 +1,6 @@
+{
+  "name": "AudioGuard AI — Acoustic Forensics",
+  "description": "Forensic neural engine & acoustic biometric analysis dashboard for deepfake voice detection, spectrogram time-frequency inspection, and cryptographic chain of custody.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
